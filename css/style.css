@@ -1,0 +1,29 @@
+#contant {
+    background: greenyellow;
+}
+
+.currency-info {
+    padding: 30px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+span {
+    padding: 0 15px;
+}
+
+.put-money-input {
+    width: 100px;
+}
+
+.main {
+    padding: 15px;
+}
+
+.money-panel-button {
+    margin: 0px 5px;
+    padding: 8px 18px;
+}
